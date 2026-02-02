@@ -91,4 +91,5 @@ GET /customer/12346
 }
 
 
-
+## API Documentation
+Swagger UI: http://localhost:8000/docs
