@@ -6,7 +6,7 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 COPY app ./app
-COPY df_ui.csv .
+COPY df_ui.csv /app/df_ui.csv
 
 EXPOSE 8000
 
