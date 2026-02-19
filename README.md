@@ -92,4 +92,5 @@ GET /customer/12346
 
 
 ## API Documentation
-Swagger UI: http://localhost:8000/docs
+Swagger UI: http://34.234.17.111:8080/docs
+
